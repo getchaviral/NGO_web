@@ -81,7 +81,7 @@ Start the development server:
 
 npm start
 
-The website will now be running on http://localhost:3000.
+The website will now be running on https://ngo-web-woad.vercel.app/
 
 🎨 Customization
 This project is highly customizable. Here are a few things you can do:
