@@ -1,5 +1,5 @@
 Basti Ki Pathshala Foundation Website
-A modern, responsive, and easy-to-use single-page application built for the Basti Ki Pathshala Foundation to showcase their mission and engage with potential volunteers and supporters. This website is designed to be mobile-first and provides a clean, user-friendly experience across all devices.
+A modern, responsive, and easy-to-use single-page application built for the Basti Ki Pathshala Foundation to showcase their mission and engage with potential volunteers and supporters. This website is designed to be mobile-first, providing a clean and user-friendly experience across all devices.
 
 📚 Table of Contents
 Project Overview
